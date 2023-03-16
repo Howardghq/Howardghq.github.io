@@ -9,9 +9,9 @@
       <p><b>地址：北京市海淀区清华大学东配楼11-432</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <!-- <td width="25%">
+    <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
-    </td> -->
+    </td>
   </tr>
 </table>
 </div>
